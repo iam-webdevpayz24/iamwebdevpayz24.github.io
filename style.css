@@ -14,7 +14,7 @@
     margin: auto;
 }
 
-/*****Navbar.......*/
+/*****Style-Navbar.......*/
 
 .navbar{
     position: fixed;
@@ -70,7 +70,7 @@
     color:yellow;
 }
 
-/******HOME SECTION******/
+/******Style-HOME-SECTION******/
 
 .home{
     display: flex;
@@ -117,7 +117,7 @@
 
 }
 
-/******ABOUT SECTION******/
+/******Style-ABOUT-SECTION******/
 
 section{
     padding: 100px 0;
@@ -164,7 +164,7 @@ section{
     text-align: justify;
 }
 
-/******SERVICES SECTION******/
+/******Style-SERVICES-SECTION******/
 
 
 .services{
@@ -225,7 +225,7 @@ section{
     text-align: justify;
 
 }
-/************SKILLS SECTION********/
+/************Style-SKILLS-SECTION********/
 
 .skills{
     font-family: 'Montserrat',sans-serif;
@@ -320,7 +320,7 @@ section{
     width: 70%;
 }
 
-/************CONTACT SECTION********/
+/************Style-CONTACT-SECTION********/
 
 .contact{
     display: flex;
@@ -432,7 +432,7 @@ section{
 }
 
 
-/************FOOTER********/
+/************Style-FOOTER-SSECTION********/
 
 
 footer{
@@ -453,7 +453,7 @@ footer span a:hover{
 }
 
 
-/**********RESPONSIVE MEDIA QUERY*************/
+/**********RESPONSIVE-MEDIA-QUERY*************/
 
 
 @media (max-width: 1920px){
