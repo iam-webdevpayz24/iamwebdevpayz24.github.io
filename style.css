@@ -44,7 +44,7 @@
     color: black;
 }
 .navbar .logo a span:hover{
-    color: skyblue;
+    color: red;
 }
 .navbar .menu li{
     list-style: none;
